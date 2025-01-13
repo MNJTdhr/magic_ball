@@ -1,6 +1,6 @@
 # magic_ball
 
-A new Flutter project.
+A new Flutter project, Magic ball(sometime it lies).
 
 ## Getting Started
 
